@@ -1,5 +1,7 @@
 🖥️ Desafio de Python - Vai Na Web
+
 📌 Sobre o Desafio
+
 Este foi o primeiro desafio de Python do curso Desenvolvedor FullStack do Vai Na Web. O objetivo era resolver uma série de problemas para restaurar o sistema de uma escola que havia sido invadido por um vírus misterioso.
 
 Para isso, foram aplicados conceitos fundamentais de lógica de programação com Python, incluindo:
