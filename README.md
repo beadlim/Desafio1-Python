@@ -23,8 +23,8 @@ Para isso, foram aplicados conceitos fundamentais de lógica de programação co
 🔹 Missão 9: Criar uma função que retorne o dobro de um número.
 🔹 Missão 10: Contar a quantidade de letras de um nome.
 
-🛠️ Tecnologias Utilizadas
+🛠️ Tecnologias Utilizadas: 
 Python 🐍
 
-💡 Aprendizados
+💡 Aprendizados: 
 Esse desafio foi uma excelente oportunidade para praticar lógica de programação, resolver problemas e aplicar conceitos essenciais do Python! 🚀
